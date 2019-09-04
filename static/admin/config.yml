@@ -1,5 +1,5 @@
 backend:
-  name: lewi-g
+  name: github
   repo: lewi-g/learnings
 
 media_folder: static/assets
